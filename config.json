@@ -1,0 +1,5 @@
+{   
+    "YahooApiKey": "e2b2dc5f7emshe1fd4861fb4c1d0p1716fejsnb82cd7419bd1",
+    "FidelityApiKey": "e2b2dc5f7emshe1fd4861fb4c1d0p1716fejsnb82cd7419bd1",
+    "Tickers": ["AAPL", "GOOGL", "MSFT", "AMZN", "CRWD", "NU", "NXT"]
+}
